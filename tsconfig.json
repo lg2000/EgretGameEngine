@@ -9,6 +9,11 @@
 			"es2015.promise"
 		]
 	},
+    "include": [
+        "src",
+        "libs",
+        "librarys"
+    ],
 	"exclude": [
 		"node_modules",
 	  	"librarys/protobuf/src/ProtoBuf.d.ts"
